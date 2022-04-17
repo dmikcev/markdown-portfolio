@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# dmikcev portfolio
+## where the magic happens
+
+
+#### dont bink
+###### u jus might miss!
